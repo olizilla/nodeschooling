@@ -1,0 +1,20 @@
+{
+  "name": "learnyounode-answers",
+  "version": "0.1.0",
+  "description": "Solutions to the learnyounode workshop",
+  "main": "01-hello-world.js",
+  "dependencies": {
+    "concat-stream": "~1.0.1",
+    "through2-map": "~1.2.0",
+    "moment": "~2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "say sorry"
+  },
+  "keywords": [
+    "nodeschool"
+  ],
+  "author": "olizilla",
+  "license": "BSD-2-Clause"
+}
